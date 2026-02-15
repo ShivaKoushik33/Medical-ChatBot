@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Medical-Chatbot
+Version: 1.0
+Summary: A medical chatbot that provides information and assistance related to health and medical topics.
+Author: Shiva Koushik
+Author-email: shivakoushik7890@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
